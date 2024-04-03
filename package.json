@@ -1,0 +1,19 @@
+{
+    "name": "is-727",
+    "version": "1.0.0",
+    "description": "Checks if a number is 727 ",
+    "author": "SquashyTomato <me@tomato.sh>",
+    "repository": "https://github.com/SquashyTomato/is-727",
+    "license": "GPL-3.0",
+    "type": "module",
+    "private": true,
+    "main": "index.js",
+    "scripts": {
+        "start": "node .",
+        "lint": "eslint src/**/*.{ js,cjs,mjs,ts }",
+        "setup": "yarn",
+        "setup-dev": "yarn -D"
+    },
+    "dependencies": {},
+    "devDependencies": {}
+}
